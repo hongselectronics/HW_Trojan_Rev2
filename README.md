@@ -20,7 +20,7 @@ The GitHub action will automatically fetch the digital netlist from Wokwi and bu
 
 - [Enabling GitHub Pages](https://tinytapeout.com/faq/#my-github-action-is-failing-on-the-pages-part)
 
-## How It Works
+## How it works
 This pseudorandom number generator (PRNG) is compromised of scan flip-flops (SFF) and XOR gates.
 There are two PRNGs in this design, a PRNG with and without a hardware trojans
 ## Resources
